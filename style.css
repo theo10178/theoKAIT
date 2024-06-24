@@ -1,0 +1,66 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.wadaw {
+    background-color: rgb(82, 82, 104);
+    width: 100%;
+    height: 10vh;
+}
+
+.image {
+    background-color: rgb(172, 172, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.koceng {
+    height: 60%;
+    width: 40%;
+}
+
+.ul-navbar {
+   justify-content: center;
+   height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+.li-navbar:hover {
+    background: rgb(124, 185, 201);
+    transition: .2s ease-in-out;
+}
+
+.www {
+    color: black;
+    text-decoration: none;
+}
+
+.wlee {
+    height: 10vh;
+    background-color: rgb(82, 82, 104);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    justify-content: center;
+    height: 100px;
+     display: flex;
+     align-items: center;
+}
+
